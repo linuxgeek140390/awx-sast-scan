@@ -218,7 +218,7 @@ multidict==4.7.5
     #   yarl
 netaddr==0.8.0
     # via pyrad
-oauthlib==3.2.0
+oauthlib==3.2.1
     # via
     #   django-oauth-toolkit
     #   requests-oauthlib
