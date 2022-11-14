@@ -84,7 +84,7 @@ defusedxml==0.6.0
     #   social-auth-core
 distro==1.5.0
     # via -r /awx_devel/requirements/requirements.in
-django==3.2.13
+django==3.2.16
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   channels
@@ -137,7 +137,7 @@ ecdsa==0.18.0
     #   django-radius
 gitdb==4.0.2
     # via gitpython
-gitpython==3.1.7
+gitpython==3.1.27
     # via -r /awx_devel/requirements/requirements.in
 google-auth==1.35.0
     # via kubernetes
@@ -218,7 +218,7 @@ multidict==4.7.5
     #   yarl
 netaddr==0.8.0
     # via pyrad
-oauthlib==3.2.0
+oauthlib==3.2.1
     # via
     #   django-oauth-toolkit
     #   requests-oauthlib
@@ -443,3 +443,4 @@ setuptools==58.2.0
     #   setuptools-rust
     #   setuptools-scm
     #   zope-interface
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
