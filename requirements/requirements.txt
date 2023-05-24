@@ -320,7 +320,7 @@ redis==3.4.1
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   django-redis
-requests==2.26.0
+requests==2.31.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   adal
