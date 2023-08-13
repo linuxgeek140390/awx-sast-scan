@@ -137,7 +137,7 @@ ecdsa==0.18.0
     #   django-radius
 gitdb==4.0.2
     # via gitpython
-gitpython==3.1.7
+gitpython==3.1.32
     # via -r /awx_devel/requirements/requirements.in
 google-auth==1.35.0
     # via kubernetes
