@@ -413,7 +413,7 @@ urllib3==1.26.5
     # via
     #   kubernetes
     #   requests
-uwsgi==2.0.18
+uwsgi==2.0.22
     # via -r /awx_devel/requirements/requirements.in
 uwsgitop==0.11
     # via -r /awx_devel/requirements/requirements.in
