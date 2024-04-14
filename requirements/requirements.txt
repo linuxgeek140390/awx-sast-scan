@@ -147,7 +147,7 @@ hyperlink==20.0.1
     # via
     #   autobahn
     #   twisted
-idna==2.9
+idna==3.7
     # via
     #   hyperlink
     #   requests
