@@ -1,3 +1,4 @@
 pytz  # for schedule_rrule lookup plugin
 python-dateutil>=2.7.0  # schedule_rrule
 awxkit  # For import and export modules
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
