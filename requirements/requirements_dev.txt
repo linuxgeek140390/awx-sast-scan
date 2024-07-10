@@ -24,3 +24,4 @@ gprof2dot
 atomicwrites==1.4.0
 flake8
 yamllint
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
