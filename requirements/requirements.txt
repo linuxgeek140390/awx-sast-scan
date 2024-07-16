@@ -431,7 +431,7 @@ zope-interface==5.0.0
 # The following packages are considered to be unsafe in a requirements file:
 pip==21.2.4
     # via -r /awx_devel/requirements/requirements.in
-setuptools==58.2.0
+setuptools==70.0.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   asciichartpy
