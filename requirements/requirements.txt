@@ -286,7 +286,7 @@ python-dateutil==2.8.1
     #   receptorctl
 python-dsv-sdk==0.0.1
     # via -r /awx_devel/requirements/requirements.in
-python-jose==3.3.0
+python-jose==3.4.0
     # via social-auth-core
 python-ldap==3.4.0
     # via
