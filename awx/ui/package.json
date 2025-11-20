@@ -21,7 +21,7 @@
     "formik": "2.2.9",
     "has-ansi": "5.0.1",
     "html-entities": "2.3.2",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "luxon": "^3.0.3",
     "prop-types": "^15.8.1",
     "react": "17.0.2",
