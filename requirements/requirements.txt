@@ -84,7 +84,7 @@ defusedxml==0.6.0
     #   social-auth-core
 distro==1.5.0
     # via -r /awx_devel/requirements/requirements.in
-django==3.2.13
+django==4.2.27
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   channels
@@ -384,7 +384,7 @@ social-auth-core[openidconnect]==4.3.0
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   social-auth-app-django
-sqlparse==0.4.2
+sqlparse==0.5.4
     # via
     #   -r /awx_devel/requirements/requirements.in
     #   django
@@ -409,7 +409,7 @@ typing-extensions==3.10.0.2
     #   aiohttp
     #   setuptools-rust
     #   twisted
-urllib3==1.26.5
+urllib3==2.6.0
     # via
     #   kubernetes
     #   requests
